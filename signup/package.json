@@ -1,0 +1,17 @@
+{
+  "name": "signup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amazon-cognito-identity-js": "^3.0.15",
+    "amazon-cognito-identity-js-node": "0.0.3",
+    "aws-sdk": "^2.528.0"
+  }
+}
